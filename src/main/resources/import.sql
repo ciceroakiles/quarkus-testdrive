@@ -1,0 +1,1 @@
+INSERT INTO Entidade(Id) VALUES (1);
