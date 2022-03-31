@@ -1,7 +1,6 @@
 package com.sample.controller;
 
 import com.sample.entity.Entidade;
-import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import java.util.List;
 import javax.transaction.Transactional;
 import javax.ws.rs.Consumes;
